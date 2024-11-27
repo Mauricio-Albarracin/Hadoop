@@ -1,0 +1,2 @@
+Para instalar Hadoop se debe de clonar este repositorio y hacer los mismos pasos del siguiente vídeo:
+https://www.youtube.com/watch?v=mrrY6yagZs0
